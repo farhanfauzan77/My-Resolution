@@ -4,6 +4,5 @@ My Resolution
 - Bergabung dengan kominitas programmer yang tepat
 - Berkaloborasi dengan berbagai expert
 - Menguasai Node JS dan React Native
-- Menguasai Rest API
+- Menguasai Rest API dan Ajax
 - Menguasai GitHub dan GIT
-
