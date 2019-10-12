@@ -12,4 +12,8 @@ Fitur Belajar
   ^ CodeIgniter
 - Framework Javascript
   ^ Bootstrap
+  ^ React
+  ^ Node
+  ^ Angular
+  ^ Vue
 - Struktur Data Fundamental
