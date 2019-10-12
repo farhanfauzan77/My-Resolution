@@ -5,3 +5,4 @@ My Resolution
 - Berkaloborasi dengan berbagai expert
 - Menguasai Rest API dan Ajax
 - Menguasai GitHub dan GIT
+- check
