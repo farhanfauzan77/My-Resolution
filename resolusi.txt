@@ -11,6 +11,8 @@ Fitur Belajar
   ^ Laravel
   ^ CodeIgniter
 - Framework Javascript
+  ^ React
+  ^ Node
   ^ Angular
   ^ Vue
 - Struktur Data Fundamental
