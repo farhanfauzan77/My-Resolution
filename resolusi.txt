@@ -5,5 +5,10 @@ My Resolution
 - Berkaloborasi dengan berbagai expert
 - Menguasai Rest API dan Ajax
 - Menguasai GitHub dan MySQL
-- Check JK
-- Check C bbbbbo
+
+Fitur Belajar
+- Framework PHP
+  ^ Laravel
+- Framework Javascript
+  ^ Angular
+- Struktur Data Fundamental
