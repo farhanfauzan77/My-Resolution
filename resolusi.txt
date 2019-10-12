@@ -9,6 +9,8 @@ My Resolution
 Fitur Belajar
 - Framework PHP
   ^ Laravel
+  ^ CodeIgniter
 - Framework Javascript
   ^ Angular
+  ^ Vue
 - Struktur Data Fundamental
