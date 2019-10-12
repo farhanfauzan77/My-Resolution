@@ -11,6 +11,7 @@ Fitur Belajar
   ^ Laravel
   ^ CodeIgniter
 - Framework Javascript
+  ^ Bootstrap
   ^ React
   ^ Node
   ^ Angular
