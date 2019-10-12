@@ -10,5 +10,7 @@ Fitur Belajar
 - Framework PHP
   ^ Laravel
 - Framework Javascript
+  ^ React
+  ^ Node
   ^ Angular
 - Struktur Data Fundamental
