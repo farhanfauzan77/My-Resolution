@@ -6,4 +6,4 @@ My Resolution
 - Menguasai Rest API dan Ajax
 - Menguasai GitHub dan MySQL
 - Check JK
-- Check C bbbbb
+- Check C bbbbbo
